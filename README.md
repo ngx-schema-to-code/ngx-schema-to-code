@@ -95,6 +95,8 @@ Subproperty(metadata) **dataType** is required.
 **displayName**, will be use in grid / list, if not provided then auto generate it.  
 **label**, will be use in input forms if not provided then displayName will be use.  
 
+## 🪲 [Bug Reporting][bug-reporting]
+
 ## 📒 Documentation
 
   | Official site www.schematocode.com |  |
@@ -146,3 +148,4 @@ Subproperty(metadata) **dataType** is required.
 [textarea]: http://www.schematocode.com/ngx-schema-to-code/textarea
 [validation]: http://www.schematocode.com/ngx-schema-to-code/validation
 [employee-json]: http://www.schematocode.com/ngx-schema-to-code/sample/employee-json
+[bug-reporting]: https://github.com/ngx-schema-to-code/ngx-schema-to-code/issues
