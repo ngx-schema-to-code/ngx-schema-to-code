@@ -7,7 +7,7 @@
 ## 🌟Overview
 Ngx-schema-to-code is an Angular Schematic designed to automate the creation of complete boilerplate code for 
 CRUD (Create, Read, Update, Delete) operations. It uses a JSON Schema file as a blueprint to generate 
-a fully functional user interface using Angular Material components. It allows to generate quick prototype for a web application (CURD).
+a fully functional user interface using Angular Material components. It allows to generate quick prototype for a web application for CURD operations.
 
 It has used angular's latest features like standalone component, signal apis and zoneless application which will work with Angular 20 and above versions.  
 
